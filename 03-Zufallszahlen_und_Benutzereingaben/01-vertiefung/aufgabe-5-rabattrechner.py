@@ -1,0 +1,6 @@
+Preis: float = float(input("Geben Sie den Preis ein: "))
+Rabatt: float = float(input("Geben Sie den Rabatt ein (in %):"))
+Endpreis: float = Preis - (Preis * Rabatt / 100)
+print(f"Der Rabatt beträgt {Preis * Rabatt / 100} Euro")
+print(f"Der Preis nach dem Rabatt beträgt: {Endpreis} Euro")
+print(round(Endpreis))
