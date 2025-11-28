@@ -1,3 +1,4 @@
+
 name = str = input("Guten Tag, könnte ich Ihren Namen wissen? (Gib den Namen ein: ")
 
 waren: list[str] = ["Äpfel", "Birnen", "Erdbeeren", "Kartoffeln", "Eier"] # type: ignore
