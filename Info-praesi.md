@@ -10,15 +10,13 @@ Egor Artamonow
 
 ---
 
-## Inhaltsverzeichnis
+<!-- ## Inhaltsverzeichnis
 
 - Was ist ein Passwortmanager
 - Wie funktioniert ein Passwortmanager
 - Welche Passwortmanager sind sicher
 - Was ist ein Masterpasswort
-
-
----
+-->
 
 ## Was ist ein Passwortmanager?
 
@@ -49,6 +47,10 @@ Egor Artamonow
 
 ---
 
+## Welche wichtigen Kriteien soll ein Passwortmanager haben?
+
+
+---
 ## Was ist ein Masterpasswort?
 
 - Das Masterpasswort ist der einzige Zugang zum Passwort-Tresor.
@@ -64,3 +66,7 @@ Egor Artamonow
 - Passwortmanager machen sichere und unterschiedliche Passwoerter alltagstauglich.
 - Ein starkes Masterpasswort und Zwei-Faktor-Authentifizierung sind besonders wichtig.
 - Vor der Auswahl sollte man Sicherheit, Transparenz und Bedienung vergleichen.
+---
+
+## Quellen
+Copilot
