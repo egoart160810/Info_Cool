@@ -158,7 +158,14 @@ Egor Artamonow
 
 ---
 
-## Welche wichtigen Kriteien soll ein Passwortmanager haben?
+## Welche wichtigen Kriteien soll ein Passwortmanager erfüllen?
+
+- Zero-Knowledge-Architektur
+- Zwei-Faktor-Authentifizierung (2FA/MFA)
+- Starke Verschlüsselung
+- Automatisches Ausfüllen (Autofill)
+      - Phishing-Warnung
+- Transparenz 
 
 <div class="float-shape triangle t1"></div>
 <div class="float-shape triangle t2"></div>
@@ -194,6 +201,9 @@ Egor Artamonow
 ---
 
 ## Quellen
+
+- [VBZ](https://www.verbraucherzentrale.de/wissen/digitale-welt/datenschutz/sind-passwortmanager-sinnvoll-114154)
+- 
 
 <div class="float-shape triangle t1"></div>
 <div class="float-shape triangle t2"></div>
