@@ -14,7 +14,6 @@
 - Mit Synchronisation koennen die Zugangsdaten auf mehreren Geraeten genutzt werden.
 
 
-
 ## Welche Passwortmanager sind sicher?
 
 - Gute Anbieter verwenden starke Verschluesselung und kennen den Inhalt des Tresors nicht.
@@ -22,6 +21,13 @@
 - Zwei-Faktor-Authentifizierung schuetzt zusaetzlich das Benutzerkonto.
 - Beispiele fuer bekannte Passwortmanager sind Bitwarden, 1Password und KeePassXC.
 - Wichtig: Auch ein guter Dienst ist nur so sicher wie das eigene Masterpasswort.
+
+- Zero-Knowledge-Architektur
+- Zwei-Faktor-Authentifizierung (2FA/MFA)
+- Starke Verschlüsselung
+- Automatisches Ausfüllen (Autofill)
+      - Phishing-Warnung
+- Transparenz 
 
 ## Was ist ein Masterpasswort?
 
@@ -31,7 +37,6 @@
 - Das Masterpasswort darf nicht in anderen Konten verwendet werden.
 - Es sollte nicht ungeschuetzt weitergegeben oder gespeichert werden.
 
----
 
 ## Fazit
 
