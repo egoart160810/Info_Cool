@@ -36,6 +36,9 @@
 - Am besten eignet sich eine Passphrase aus mehreren zufaelligen Woertern.
 - Das Masterpasswort darf nicht in anderen Konten verwendet werden.
 - Es sollte nicht ungeschuetzt weitergegeben oder gespeichert werden.
+-  Sehr lang: Es sollte mindestens 16 bis 25 Zeichen (oder länger) umfassen. Je mehr Zeichen, desto exponentiell schwerer ist es zu knacken.
+- Einzigartig: Nutzen Sie dieses Passwort niemals für einen anderen Dienst oder Account.
+-  Zufällig oder als Passphrase: Es sollte keine leicht erratbaren persönlichen Daten (Namen von Kindern, Haustieren, Geburtsdaten) oder reine Wörterbuch-Klassiker enthalten.
 
 
 ## Fazit

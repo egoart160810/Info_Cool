@@ -170,7 +170,7 @@ Egor Artamonow
 - Zwei-Faktor-Authentifizierung (2FA/MFA)
 - Starke Verschlüsselung
 - Automatisches Ausfüllen (Autofill)
-      - Phishing-Warnung
+- Phishing-Warnung
 - Transparenz 
 
 <div class="float-shape triangle t1"></div>
@@ -181,11 +181,15 @@ Egor Artamonow
 ---
 ## Was ist ein Masterpasswort?
 
-- Das Masterpasswort ist der einzige Zugang zum Passwort-Tresor.
-- Es sollte lang, einmalig und leicht merkbar sein.
-- Am besten eignet sich eine Passphrase aus mehreren zufaelligen Woertern.
-- Das Masterpasswort darf nicht in anderen Konten verwendet werden.
-- Es sollte nicht ungeschuetzt weitergegeben oder gespeichert werden.
+- Man muss nur ein Passwort merken
+
+- sehr lang
+
+- Nirgendwo sonst verwenden
+
+- Nicht wiederherstellbar
+
+- Zusätzlich Zwei-Faktor-Authentifizierung aktivieren
 
 <div class="float-shape triangle t1"></div>
 <div class="float-shape triangle t2"></div>
@@ -209,7 +213,10 @@ Egor Artamonow
 ## Quellen
 
 - [VBZ](https://www.verbraucherzentrale.de/wissen/digitale-welt/datenschutz/sind-passwortmanager-sinnvoll-114154)
-- 
+- [CHIP](https://www.chip.de/artikel/Test-Die-besten-Passwort-Manager-Vergleich_182620837.html)
+- [IT-Smarter](https://it-smarter.de/blog/zwei-faktor-authentifizierung)
+- [Keeper Securety](https://www.keepersecurity.com/de_DE/resources/glossary/what-is-a-master-password/) 
+
 
 <div class="float-shape triangle t1"></div>
 <div class="float-shape triangle t2"></div>
